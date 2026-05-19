@@ -9,32 +9,36 @@ const ThankYouEventoads = () => {
         <section className="py-16 md:py-24">
           <div className="container mx-auto px-4">
             <div className="max-w-3xl mx-auto text-center">
-              {/* Success Icon */}
+
               <div className="flex justify-center mb-8">
                 <div className="bg-primary/10 rounded-full p-6">
                   <CheckCircle className="w-16 h-16 text-primary" />
                 </div>
               </div>
 
-              {/* Main Message */}
               <h1 className="text-3xl md:text-4xl font-bold mb-8 text-foreground">
                 Únete al Grupo pinchando en el botón verde
               </h1>
-              
+
               <div className="bg-card border border-border rounded-lg p-8 mb-8">
                 <p className="text-foreground mb-8 font-semibold">
                   SÓLO si entras al Grupo TENDRÁS acceso a TODOS los ENLACES
                 </p>
-                
-                <Button 
-                  size="lg" 
+
+                <Button
+                  size="lg"
                   className="bg-[#25D366] hover:bg-[#20BD5A] text-white font-bold"
                   asChild
                 >
-                  <a 
-                    href=" https://chat.whatsapp.com/KU9cBmQPesj6EROWBgeyAB" 
-                    target="_blank" 
+                  <a
+                    href="https://chat.whatsapp.com/KU9cBmQPesj6EROWBgeyAB"
+                    target="_blank"
                     rel="noopener noreferrer"
+                    onClick={() => {
+                      if (window.ttq) {
+                        window.ttq.track("CompleteRegistration");
+                      }
+                    }}
                   >
                     Unirse al Grupo de WhatsApp
                   </a>
@@ -44,6 +48,7 @@ const ThankYouEventoads = () => {
           </div>
         </section>
       </main>
+
       <MinimalFooter />
     </div>
   );
