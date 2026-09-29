@@ -13,23 +13,17 @@ const stripePromise = loadStripe(
 );
 
 const products = {
-  "12-semanas": {
+  "1-año": {
     name: "ESPALDA INDESTRUCTIBLE",
-    duration: "12 semanas",
-    price: 997,
-    priceFormatted: "997,00€",
+    duration: "1 año",
+    price: 2897,
+    priceFormatted: "2.897,00€",
   },
   "6-meses": {
     name: "ESPALDA INDESTRUCTIBLE",
     duration: "6 meses",
     price: 1797,
     priceFormatted: "1.797,00€",
-  },
-  "1-ano": {
-    name: "ESPALDA INDESTRUCTIBLE",
-    duration: "1 año",
-    price: 2897,
-    priceFormatted: "2.897,00€",
   },
 };
 
