@@ -7,149 +7,182 @@ const PoliticaPrivacidad = () => {
       <Header />
       <main className="flex-1 bg-background pt-24">
         <div className="container mx-auto px-4 py-16 max-w-4xl">
-          <h1 className="text-4xl font-bold mb-8">🔒 Política de Privacidad – Unbreakable Back LLC ("Espalda Indestructible")</h1>
-          
+          <h1 className="text-4xl font-bold mb-8">🔒 Política de Privacidad</h1>
+
           <section className="mb-8">
-            <h2 className="text-2xl font-bold mb-4">1. Protección de datos personales según el RGPD y la LOPDGDD</h2>
+            <h2 className="text-2xl font-bold mb-4">Mi compromiso con tus datos personales</h2>
             <p className="text-muted-foreground mb-4">
-              Unbreakable Back LLC, en adelante Espalda Indestructible, en cumplimiento de la normativa vigente en materia de protección de datos de carácter personal, informa que los datos personales que se recogen a través del sitio web https://espaldaindestructible.com/ se incluyen en ficheros automatizados titularidad de la empresa, creados y mantenidos bajo su responsabilidad.
+              Si estás leyendo esto es porque me obliga la ley. Esta política que estás leyendo ahora mismo responde a todos los interrogantes acerca de cómo se tratan y protegen la información personal de todas las personas que se relacionan con UNBREAKABLE BACK LLC a través de la membresía entrenaconrobertogalvan.com.
             </p>
             <p className="text-muted-foreground mb-4">
-              La recogida y el tratamiento automatizado de los datos personales tienen como finalidad mantener la relación comercial, así como realizar tareas de información, formación, asesoramiento y comunicación relacionadas con los servicios ofrecidos por Unbreakable Back LLC.
+              Esta web ha sido rigurosamente adaptada a lo dispuesto en el Reglamento UE 2016/679, del Parlamento Europeo y del Consejo de 27 de abril de 2016 (RGPD) y la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
             </p>
             <p className="text-muted-foreground mb-4">
-              Estos datos no serán cedidos a ninguna entidad externa, salvo obligación legal o consentimiento expreso del interesado.
+              También te informo que, mediante la aceptación de esta Política de Privacidad, prestas tu consentimiento informado, expreso, libre e inequívoco para que los Datos que proporcionas sean tratados por UNBREAKABLE BACK LLC, como responsable del tratamiento, y sobre los que se aplican las medidas de seguridad, técnicas y organizativas previstas en la normativa vigente.
+            </p>
+            <p className="text-muted-foreground mb-4">
+              UNBREAKABLE BACK LLC, en aplicación de la normativa vigente en materia de protección de datos de carácter personal, informa que los datos personales que se recogen a través de los formularios del Sitio web: https://entrenaconrobertogalvan.com/, se incluyen en los ficheros automatizados específicos de usuarios de los servicios de UNBREAKABLE BACK LLC.
+            </p>
+            <p className="text-muted-foreground mb-4">
+              La recogida y tratamiento automatizado de los datos de carácter personal tiene como finalidad el mantenimiento de la relación comercial y el desempeño de tareas de información, formación, asesoramiento y otras actividades propias de UNBREAKABLE BACK LLC.
+            </p>
+            <p className="text-muted-foreground mb-4 font-semibold">
+              Estos datos NO serán cedidos a ninguna entidad.
+            </p>
+            <p className="text-muted-foreground mb-4">
+              El usuario podrá en cualquier momento ejercitar los derechos de acceso, oposición, rectificación, cancelación, limitación y portabilidad reconocidos en el citado Reglamento (UE). El ejercicio de estos derechos puede realizarlo el propio usuario a través de email a: info@entrenaconrobertogalvan.com
             </p>
             <p className="text-muted-foreground">
-              Espalda Indestructible aplica las medidas técnicas y organizativas necesarias para garantizar la seguridad, integridad y confidencialidad de los datos personales, de acuerdo con lo dispuesto en el Reglamento (UE) 2016/679 (RGPD) y la Ley Orgánica 3/2018, de 5 de diciembre (LOPDGDD).
+              El usuario manifiesta que todos los datos facilitados por él son ciertos y correctos, y se compromete a mantenerlos actualizados, comunicando los cambios a UNBREAKABLE BACK LLC.
             </p>
           </section>
 
           <section className="mb-8">
-            <h2 className="text-2xl font-bold mb-4">2. Derechos de las personas interesadas</h2>
+            <h2 className="text-2xl font-bold mb-4">Finalidad del tratamiento de los datos personales</h2>
+            <p className="text-muted-foreground mb-4 font-semibold">¿Con qué finalidad trataremos tus datos personales?</p>
             <p className="text-muted-foreground mb-4">
-              El usuario puede ejercer en cualquier momento los siguientes derechos reconocidos por la normativa vigente:
+              En UNBREAKABLE BACK LLC, trataremos tus datos personales recabados a través del Sitio Web: https://entrenaconrobertogalvan.com/ con las siguientes finalidades:
             </p>
-            <ul className="list-disc list-inside text-muted-foreground mb-4 space-y-2">
-              <li><strong>Derecho de acceso:</strong> conocer qué datos personales tratamos y con qué finalidad.</li>
-              <li><strong>Derecho de rectificación:</strong> solicitar la modificación de sus datos si son inexactos o incompletos.</li>
-              <li><strong>Derecho de supresión (derecho al olvido):</strong> solicitar la eliminación de sus datos personales cuando ya no sean necesarios para los fines recogidos.</li>
-              <li><strong>Derecho de oposición:</strong> oponerse a un tratamiento concreto de sus datos.</li>
-              <li><strong>Derecho de limitación:</strong> solicitar la restricción temporal del tratamiento de sus datos.</li>
-              <li><strong>Derecho a la portabilidad:</strong> recibir los datos en formato estructurado y de uso común, y poder transmitirlos a otro responsable.</li>
+            <ul className="list-disc list-inside text-muted-foreground space-y-2 mb-4">
+              <li>En caso de contratación de los bienes y servicios ofertados a través de https://entrenaconrobertogalvan.com/ para mantener la relación contractual, así como la gestión, administración, información, prestación y mejora del servicio.</li>
+              <li>Envío de información solicitada a través de los formularios dispuestos en https://entrenaconrobertogalvan.com/</li>
+              <li>Remitir boletines (newsletters), así como comunicaciones comerciales de promociones y/o publicidad de https://entrenaconrobertogalvan.com/ y del sector.</li>
             </ul>
             <p className="text-muted-foreground mb-4">
-              El ejercicio de estos derechos puede realizarse de forma gratuita enviando una solicitud escrita a:
-              <br />
-              📩 info@espaldaindestructible.com
+              Te recordamos que puedes oponerte al envío de comunicaciones comerciales por cualquier vía y en cualquier momento, remitiendo un correo electrónico a la dirección anteriormente indicada.
             </p>
             <p className="text-muted-foreground">
-              El usuario declara que todos los datos facilitados son veraces y se compromete a mantenerlos actualizados, notificando cualquier modificación a Unbreakable Back LLC.
+              Los campos de dichos registros son de cumplimentación obligatoria, siendo imposible realizar las finalidades expresadas si no se aportan esos datos.
             </p>
           </section>
 
           <section className="mb-8">
-            <h2 className="text-2xl font-bold mb-4">3. Finalidad del tratamiento de los datos personales</h2>
-            <p className="text-muted-foreground mb-4">
-              En Espalda Indestructible, tratamos los datos personales recogidos a través del sitio web con las siguientes finalidades:
-            </p>
-            <div className="space-y-4">
-              <div>
-                <h3 className="font-bold text-foreground mb-2">Prestación de servicios:</h3>
-                <p className="text-muted-foreground">
-                  En caso de contratación de los servicios o productos ofrecidos en https://espaldaindestructible.com/, los datos se utilizarán para gestionar la relación contractual, administrativa y técnica necesaria para su correcta ejecución.
-                </p>
-              </div>
-              <div>
-                <h3 className="font-bold text-foreground mb-2">Gestión de consultas y solicitudes:</h3>
-                <p className="text-muted-foreground">
-                  Los datos enviados mediante formularios de contacto se emplearán para dar respuesta a las peticiones, sugerencias o consultas realizadas por los usuarios.
-                </p>
-              </div>
-              <div>
-                <h3 className="font-bold text-foreground mb-2">Comunicaciones comerciales y newsletters:</h3>
-                <p className="text-muted-foreground mb-4">
-                  Si el usuario lo autoriza expresamente, Unbreakable Back LLC podrá enviar boletines informativos, promociones y comunicaciones publicitarias relacionadas con sus servicios y actividades.
-                </p>
-                <p className="text-muted-foreground">
-                  El usuario podrá revocar su consentimiento para el envío de comunicaciones comerciales en cualquier momento, enviando un correo electrónico a info@espaldaindestructible.com con el asunto "Baja de comunicaciones".
-                </p>
-              </div>
-            </div>
-          </section>
-
-          <section className="mb-8">
-            <h2 className="text-2xl font-bold mb-4">4. Conservación de los datos</h2>
+            <h2 className="text-2xl font-bold mb-4">¿Por cuánto tiempo se conservan los datos personales recabados?</h2>
             <p className="text-muted-foreground">
-              Los datos personales proporcionados se conservarán durante el tiempo necesario para cumplir con la finalidad para la que fueron recogidos y mientras exista una relación comercial o contractual entre el usuario y Espalda Indestructible. Posteriormente, se mantendrán bloqueados durante el plazo legalmente establecido para atender posibles responsabilidades derivadas del tratamiento.
+              Los datos personales proporcionados se conservarán mientras se mantenga la relación comercial o no solicites su supresión y durante el plazo por el cual pudieran derivarse responsabilidades legales por los servicios prestados.
             </p>
           </section>
 
           <section className="mb-8">
-            <h2 className="text-2xl font-bold mb-4">5. Legitimación del tratamiento</h2>
+            <h2 className="text-2xl font-bold mb-4">Legitimación</h2>
             <p className="text-muted-foreground mb-4">
-              El tratamiento de los datos personales se basa en las siguientes bases jurídicas:
+              El tratamiento de tus datos se realiza con las siguientes bases jurídicas que legitiman el mismo:
             </p>
-            <ul className="list-disc list-inside text-muted-foreground mb-4 space-y-2">
-              <li><strong>Ejecución de un contrato o solicitud de servicios:</strong> necesaria para la prestación de los servicios ofrecidos por Unbreakable Back LLC.</li>
-              <li><strong>Consentimiento del interesado:</strong> otorgado de forma libre, específica, informada e inequívoca mediante la aceptación de esta Política de Privacidad.</li>
-              <li><strong>Cumplimiento de obligaciones legales:</strong> cuando sea necesario para el cumplimiento de normas fiscales, contables o administrativas.</li>
+            <ul className="list-disc list-inside text-muted-foreground space-y-2 mb-4">
+              <li>La solicitud de información y/o la contratación de los servicios de UNBREAKABLE BACK LLC cuyos términos y condiciones se pondrán a tu disposición en todo caso, de forma previa a una eventual contratación.</li>
+              <li>El consentimiento libre, específico, informado e inequívoco, en tanto que te informamos poniendo a tu disposición la presente política de privacidad, que tras la lectura de la misma, en caso de estar conforme, puedes aceptar mediante una declaración o una clara acción afirmativa, como el marcado de una casilla dispuesta al efecto.</li>
             </ul>
             <p className="text-muted-foreground">
-              En caso de que el usuario no proporcione los datos solicitados o los facilite de forma incompleta, Espalda Indestructible no podrá garantizar la correcta prestación del servicio ni atender adecuadamente la solicitud.
+              En caso de que no nos facilites tus datos o lo hagas de forma errónea o incompleta, no podremos atender tu solicitud, resultando del todo imposible proporcionarte la información solicitada o llevar a cabo la contratación de los servicios.
             </p>
           </section>
 
           <section className="mb-8">
-            <h2 className="text-2xl font-bold mb-4">6. Destinatarios de los datos</h2>
-            <p className="text-muted-foreground">
-              Unbreakable Back LLC no comunicará los datos personales a terceros, salvo obligación legal o requerimiento judicial. En caso de ser necesario compartir información con proveedores tecnológicos o de servicios, estos actuarán en calidad de encargados del tratamiento, con contratos que garantizan la confidencialidad y seguridad de los datos personales.
-            </p>
-          </section>
-
-          <section className="mb-8">
-            <h2 className="text-2xl font-bold mb-4">7. Datos recopilados por los usuarios del servicio</h2>
+            <h2 className="text-2xl font-bold mb-4">Destinatarios</h2>
             <p className="text-muted-foreground mb-4">
-              En los casos en que los usuarios incluyan datos personales de terceros en los servidores de alojamiento o formularios gestionados por Espalda Indestructible, la empresa no será responsable del incumplimiento del RGPD por parte de dichos usuarios.
+              Los datos no se comunicarán a ningún tercero ajeno, salvo obligación legal.
             </p>
-            <p className="text-muted-foreground">
-              El usuario garantiza que dispone de la legitimación necesaria para incluir esos datos y que ha informado debidamente a las personas afectadas.
-            </p>
-          </section>
-
-          <section className="mb-8">
-            <h2 className="text-2xl font-bold mb-4">8. Conservación de datos y cumplimiento de la LSSI</h2>
-            <p className="text-muted-foreground">
-              En virtud de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y de Comercio Electrónico (LSSI), Unbreakable Back LLC conservará durante un periodo máximo de 12 meses la información necesaria para identificar el origen de los datos alojados y el momento en que se inició la prestación del servicio. Estos datos solo se pondrán a disposición de autoridades competentes en el marco de una investigación judicial o de seguridad pública.
-            </p>
-          </section>
-
-          <section className="mb-8">
-            <h2 className="text-2xl font-bold mb-4">9. Propiedad intelectual y derechos sobre los contenidos</h2>
             <p className="text-muted-foreground mb-4">
-              Todos los derechos de autor, propiedad intelectual e industrial sobre el sitio web https://espaldaindestructible.com/ y sus contenidos pertenecen a Unbreakable Back LLC.
-            </p>
-            <p className="text-muted-foreground">
-              No se permite la reproducción, publicación o uso no autorizado, total o parcial, de los contenidos del sitio sin el consentimiento previo y por escrito de la empresa.
+              Datos recopilados por usuarios de los servicios: En los casos en que el usuario incluya ficheros con datos de carácter personal en los servidores de alojamiento compartido, UNBREAKABLE BACK LLC no se hace responsable del incumplimiento por parte del usuario del RGPD.
             </p>
           </section>
 
           <section className="mb-8">
-            <h2 className="text-2xl font-bold mb-4">10. Seguridad de la información</h2>
+            <h2 className="text-2xl font-bold mb-4">Retención de datos en conformidad a la LSSI</h2>
             <p className="text-muted-foreground">
-              Espalda Indestructible realiza copias de seguridad de los contenidos alojados en sus servidores, pero no se hace responsable de la pérdida o borrado accidental de datos por parte del usuario. En caso de pérdida imputable a la empresa, se procederá a la reposición de los datos según los términos del servicio contratado.
+              UNBREAKABLE BACK LLC informa de que, como prestador de servicio de alojamiento de datos y en virtud de lo establecido en la Ley 34/2002 de 11 de julio de Servicios de la Sociedad de la Información y de Comercio Electrónico (LSSI), retiene por un periodo máximo de 12 meses la información imprescindible para identificar el origen de los datos alojados y el momento en que se inició la prestación del servicio. La retención de estos datos no afecta al secreto de las comunicaciones y sólo podrán ser utilizados en el marco de una investigación criminal o para la salvaguardia de la seguridad pública, poniéndose a disposición de los jueces y/o tribunales o del Ministerio que así los requiera. La comunicación de datos a las Fuerzas y Cuerpos del Estado se hará en virtud a lo dispuesto en la normativa sobre protección de datos personales.
             </p>
           </section>
 
           <section className="mb-8">
-            <h2 className="text-2xl font-bold mb-4">11. Comunicaciones comerciales</h2>
+            <h2 className="text-2xl font-bold mb-4">Derechos de propiedad intelectual</h2>
             <p className="text-muted-foreground mb-4">
-              De acuerdo con la LSSI, Unbreakable Back LLC no enviará comunicaciones publicitarias por correo electrónico u otro medio electrónico sin el consentimiento expreso de los destinatarios.
+              UNBREAKABLE BACK LLC es titular de todos los derechos de autor, propiedad intelectual, industrial, “know how” y cuantos otros derechos guardan relación con los contenidos del sitio web y los servicios ofertados en el mismo, así como de los programas necesarios para su implementación y la información relacionada.
+            </p>
+            <p className="text-muted-foreground mb-4">
+              No se permite la reproducción, publicación y/o uso no estrictamente privado de los contenidos, totales o parciales, del sitio web sin el consentimiento previo y por escrito.
+            </p>
+            <h3 className="text-xl font-semibold mb-2">Propiedad intelectual del software</h3>
+            <p className="text-muted-foreground mb-4">
+              El usuario debe respetar los programas de terceros puestos a su disposición por UNBREAKABLE BACK LLC, aún siendo gratuitos y/o de disposición pública. UNBREAKABLE BACK LLC dispone de los derechos de explotación y propiedad intelectual necesarios del software. El usuario no adquiere derecho alguno o licencia por el servicio contratado, sobre el software necesario para la prestación del servicio, ni tampoco sobre la información técnica de seguimiento del servicio...
+            </p>
+            <h3 className="text-xl font-semibold mb-2">Propiedad intelectual de los contenidos alojados</h3>
+            <p className="text-muted-foreground mb-4">
+              Se prohíbe el uso contrario a la legislación sobre propiedad intelectual de los servicios prestados por UNBREAKABLE BACK LLC y, en particular:
+            </p>
+            <ul className="list-disc list-inside text-muted-foreground space-y-2 mb-4">
+              <li>La utilización que resulte contraria a las leyes españolas o que infrinja los derechos de terceros.</li>
+              <li>La publicación o la transmisión de cualquier contenido que, a juicio de UNBREAKABLE BACK LLC, resulte violento, obsceno, abusivo, ilegal, racial, xenófobo o difamatorio.</li>
+              <li>Los cracks, números de serie de programas o cualquier otro contenido que vulnere derechos de la propiedad intelectual de terceros.</li>
+              <li>La recogida y/o utilización de datos personales de otros usuarios sin su consentimiento expreso o contraviniendo lo dispuesto en el RGPD.</li>
+              <li>La utilización del servidor de correo del dominio y de las direcciones de correo electrónico para el envío de correo masivo no deseado.</li>
+            </ul>
+          </section>
+
+          <section className="mb-8">
+            <h2 className="text-2xl font-bold mb-4">Protección de la información alojada</h2>
+            <p className="text-muted-foreground mb-4">
+              UNBREAKABLE BACK LLC realiza copias de seguridad de los contenidos alojados en sus servidores, sin embargo no se responsabiliza de la pérdida o el borrado accidental de los datos por parte de los usuarios. De igual manera, no garantiza la reposición total de los datos borrados por los usuarios.
             </p>
             <p className="text-muted-foreground">
-              En el caso de clientes con una relación contractual previa, la empresa podrá enviar comunicaciones sobre productos o servicios similares a los ya contratados. El usuario podrá solicitar la baja en cualquier momento escribiendo a:
-              <br />
-              📩 info@espaldaindestructible.com
+              Los servicios ofertados, excepto los servicios específicos de backup, no incluyen la reposición de los contenidos conservados en las copias de seguridad realizadas por UNBREAKABLE BACK LLC, cuando esta pérdida sea imputable al usuario.
+            </p>
+          </section>
+
+          <section className="mb-8">
+            <h2 className="text-2xl font-bold mb-4">¿Cuáles son tus derechos cuando nos facilitas tus datos?</h2>
+            <p className="text-muted-foreground mb-4">Estos son los derechos que tienes cuando facilitas información en esta web:</p>
+            <ul className="list-disc list-inside text-muted-foreground space-y-2 mb-4">
+              <li><strong>Derecho a la Confirmación y Acceso:</strong> Tienes derecho a obtener confirmación sobre si estamos tratando tus datos personales y solicitar acceso a ellos.</li>
+              <li><strong>Derecho de Rectificación o Supresión:</strong> Puedes solicitar la rectificación de datos inexactos o su supresión si ya no son necesarios.</li>
+              <li><strong>Derecho de Cancelación:</strong> Solicitar la cancelación de tus datos personales cuando se cumplan ciertas condiciones.</li>
+              <li><strong>Derecho de Limitación del Tratamiento:</strong> Solicitar la limitación del tratamiento en determinadas circunstancias.</li>
+              <li><strong>Derecho de Oposición:</strong> Oponerte al tratamiento de tus datos personales.</li>
+              <li><strong>Derecho de Portabilidad:</strong> Recibir tus datos en un formato estructurado y de uso común.</li>
+              <li><strong>Derecho a la Tutela Judicial Efectiva y Reclamación:</strong> Presentar una reclamación ante la autoridad de control.</li>
+            </ul>
+            <p className="text-muted-foreground mb-4">
+              Para ejercer cualquiera de estos derechos, se ha habilitado un formulario específico o puedes escribir a la dirección de correo electrónico: info@espaldaindestructible.com
+            </p>
+            <h3 className="text-xl font-semibold mb-2">Plazos de conservación de datos:</h3>
+            <ul className="list-disc list-inside text-muted-foreground space-y-2">
+              <li><strong>Clientes:</strong> Mientras exista un interés mutuo para mantener la relación comercial y durante los plazos exigidos por la normativa.</li>
+              <li><strong>Suscriptores:</strong> Desde que el usuario se suscribe hasta que se da de baja.</li>
+              <li><strong>Usuarios de contacto y redes sociales:</strong> Desde que prestan su consentimiento hasta que lo retiran.</li>
+            </ul>
+          </section>
+
+          <section className="mb-8">
+            <h2 className="text-2xl font-bold mb-4">¿A qué destinatarios se comunicarán tus datos?</h2>
+            <p className="text-muted-foreground mb-4">
+              UNBREAKABLE BACK LLC puede comunicar tu información personal a proveedores de servicios externos que ayudan a respaldar la actividad bajo estrictos contratos de confidencialidad:
+            </p>
+            <ul className="list-disc list-inside text-muted-foreground space-y-2 mb-4">
+              <li><strong>Hosting:</strong> Hostinger (servidor digital en EEE y EEUU).</li>
+              <li><strong>Plataforma para realizar directos:</strong> OBS Studio y Zoom.</li>
+              <li><strong>Proveedor de Email Marketing:</strong> MailRelay.</li>
+              <li><strong>Plataforma de compras:</strong> entrenaconrobertogalvan.com y espaldaindestructible.com</li>
+              <li><strong>Sistemas de Pago:</strong> Stripe.</li>
+            </ul>
+          </section>
+
+          <section className="mb-8">
+            <h2 className="text-2xl font-bold mb-4">Secreto y seguridad de los datos</h2>
+            <p className="text-muted-foreground mb-4">
+              UNBREAKABLE BACK LLC se compromete al uso y tratamiento de los datos personales respetando su confidencialidad, adoptando medidas técnicas y organizativas para evitar alteración, pérdida o acceso no autorizado.
+            </p>
+            <p className="text-muted-foreground">
+              Esta web incluye un certificado SSL, protocolo de seguridad que cifra la transmisión de datos, además de medidas Antispam, frente a ataques y phishing.
+            </p>
+          </section>
+
+          <section className="mb-8">
+            <h2 className="text-2xl font-bold mb-4">Navegación y Comunicaciones Comerciales</h2>
+            <p className="text-muted-foreground mb-4">
+              Al navegar por la web se pueden recoger datos no identificables mediante servicios de análisis como Analytics para analizar tendencias y mejorar la experiencia de usuario.
+            </p>
+            <p className="text-muted-foreground">
+              En cumplimiento de la normativa, no se enviarán comunicaciones publicitarias por correo electrónico que previamente no hubieran sido solicitadas o expresamente autorizadas, salvo en aquellos casos en que exista una relación contractual previa.
             </p>
           </section>
         </div>
